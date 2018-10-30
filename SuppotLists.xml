@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>CentOS</title>
+    <link></link>
+    <description></description>
+    <lastBuildDate>Wed, 03 Oct 2018 00:00:13 +0900</lastBuildDate>
+    <docs></docs>
+    <generator></generator>
+    <item>
+      <title>7</title>
+      <link></link>
+      <description></description>
+      <pubDate>Wed, 03 Oct 2018 00:00:13 +0900</pubDate>
+      <guid isPermalink="false"></guid>
+      <category>os</category>
+    </item>
+  </channel>
+</rss>
